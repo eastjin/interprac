@@ -8,12 +8,12 @@ public class Audio implements RemoteControl {
 
     @Override
     public void turnOn() {
-        System.out.println("오디오를 켭니다아아.");
+        System.out.println("오디오를 켭니다아.");
     }
 
     @Override
     public void turnOff() {
-        System.out.println("오디오를 끕니다.");
+        System.out.println("오디오를 끕니다. 프래시");
     }
 
     @Override
